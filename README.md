@@ -6,9 +6,9 @@
 ## **Образование**
   *Информационные системы и технологии - ВВГУ(ВГУЭС)*
 ### **Тема диплома (бакалавриат)**
-  *Разработка мобильного приложения "Art of Rhythm"*
-  Это мобильная ритм игра
-  Ссылка на UI: [Fidgma](https://www.figma.com/file/QAdkLLrg8MhRlZR1rMZiMn/Art-of-Rhythm?type=design&node-id=0%3A1&mode=design&t=P4xku6H2E21MvyHc-1)
+  + *Разработка мобильного приложения "Art of Rhythm"*
+  + Это мобильная ритм игра
+  + Ссылка на UI: [Fidgma](https://www.figma.com/file/QAdkLLrg8MhRlZR1rMZiMn/Art-of-Rhythm?type=design&node-id=0%3A1&mode=design&t=P4xku6H2E21MvyHc-1)
 ### **Тема диплма (магистратура)**
   Пока не определился, но скорее всего таже
 ## **Немного о себе**
